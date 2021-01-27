@@ -1,2 +1,2 @@
-# projet-master-1
-Master
+Groupe2 génie logiciel
+
